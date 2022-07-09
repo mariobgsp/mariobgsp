@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mariobgsp
-- 👀 I’m interested in Machine Learning, Artificial Intellegence and Data Science
-- 🌱 I’m currently learning Python programming for Machine Learning
+- 🌱 I’m currently Software Developer using Java Spring Boot in building microservices and REST API
 - 📫 You can reach me at Ario Bagus Prakusa on LinkedIn or @mariobgsp on twitter/Instagram 
 
 <!---
