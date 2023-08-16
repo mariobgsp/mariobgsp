@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mariobgsp
 - 🌱 I’m currently work as Back End Developer using Java Spring Framework in building microservices and REST API
-- 📫 You can reach me at Ario Bagus Prakusa on LinkedIn or @mariobgsp on twitter/Instagram 
+- 📫 You can reach me at Ario Bagus Prakusa on LinkedIn or @mariobgsp on twitter/Instagram
+- https://www.linkedin.com/in/mariobgsp/
 
 <!---
 mariobgsp/mariobgsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
