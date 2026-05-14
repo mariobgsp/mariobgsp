@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariobgsp
-- 🌱 I’m currently work as Back End Engineer using Java Spring Framework in building microservices and REST API
+- 🌱 I’m currently work as Software Engineer
 - 📫 You can reach me at Ario Bagus Prakusa on LinkedIn or @mariobgsp on twitter/Instagram
 - ✨ find me on linkedin at [here](https://www.linkedin.com/in/mariobgsp/)
 
